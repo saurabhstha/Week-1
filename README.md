@@ -1,6 +1,7 @@
 Task 3: What is the level of measurement of the following variables?
 
 a. The number of downloads of different bands’ songs on iTunes.
+
         Discrete variable because there is distinct measurement. 1,2,3 and so on. It cannot be 1.2 song downloaded.
 Also it is Ratio variable because there is meaninful zero(No downloads) with interval properties(10-20 downloads and 30-40 downloads have same difference)
 
