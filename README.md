@@ -8,19 +8,20 @@ b. The names of the bands that were downloaded.
 	<br>Nominal variable because each band has their own identity and has a meaning, has no meaningful order.</br>
 c. The position in the iTunes download chart. 
         Ordinal variable because position tells us the order of ranking; first, second, third.
-<brd. The money earned by the bands from the downloads. 
+
+d. The money earned by the bands from the downloads. 
         Ratio variable because there is meaningful zero(No money earned) and it has properties of interval variable($20 -$30 dollars and $40- $50 dollars have same difference) 
 
 e. The weight of drugs bought by the bands with their royalties. 
         Ratio variable because there is meaningful zero(0 lb drugs) and there is same difference between (20 - 30 lbs) and (25-35 lbs) of drug.
 
 f. The type of drugs bought by the bands with their royalties. 
-        Categorical and Nominal variable because type of drugs can be categorized by names(cocaine, marijuana ) and there is no meaningful order.
+        <br>Categorical and Nominal variable because type of drugs can be categorized by names(cocaine, marijuana) and there is no meaningful order.</br>
 g. The phone numbers that the bands obtained because of their fame. 
-        Nominal and categorical variable because there is no meaningful order and each phone number has their own owner(distinction)
+        <br>Nominal and categorical variable because there is no meaningful order and each phone number has their own owner(distinction)</br>
 
 h. The gender of the people giving the bands their phone numbers.
-        Binary variable because there is 2 distinct gender category; Male and Female. It can be categorical as well because gender are categorized.
+        <br>Binary variable because there is 2 distinct gender category; Male and Female. It can be categorical as well because gender are categorized.</br>
     
 i. The instruments played by the band members.
         Nominal and categorical variable because they are categorized and each instrument has distinct usefulness and there is no order/ranking.
