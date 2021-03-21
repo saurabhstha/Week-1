@@ -18,6 +18,7 @@ e. The weight of drugs bought by the bands with their royalties.
 
 f. The type of drugs bought by the bands with their royalties. 
         <br>Categorical and Nominal variable because type of drugs can be categorized by names(cocaine, marijuana) and there is no meaningful order.</br>
+
 g. The phone numbers that the bands obtained because of their fame. 
         <br>Nominal and categorical variable because there is no meaningful order and each phone number has their own owner(distinction)</br>
 
