@@ -1,7 +1,7 @@
 M Task 3: What is the level of measurement of the following variables? 
-<br>a. The number of downloads of different bands’ songs on iTunes.</br><br>
+<br>a. The number of downloads of different bands’ songs on iTunes.</br>
     Interval 
-</br><br>b. The names of the bands that were downloaded. </br><br>
+<br>b. The names of the bands that were downloaded. </br><br>
     Nominal
 </br><br>c. The position in the iTunes download chart.</br><br>
     Ordinal
