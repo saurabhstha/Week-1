@@ -3,7 +3,8 @@ Task 3: What is the level of measurement of the following variables?
 Discrete variable because there is distict measurement. 1,2,3 and so on. It cannot be 1.2 song downloaded.
 Also it is Ratio variable because there is meaninful zero(No downloads) with interval properties(10-20 downloads and 30-40 downloads have same difference)
 <br>b. The names of the bands that were downloaded. </br>
-    Nominal variable because each band has their own identity and has a meaning, has no meaningful order.
+    Nominal variable because each band has their own identity and has a meaning, has no meaningful order.<br>
+    </br>
 <br>c. The position in the iTunes download chart.</br>
     Ordinal variable because position tells us the order of ranking; first, second, third.
 <brd. The money earned by the bands from the downloads.</br>
