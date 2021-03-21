@@ -6,14 +6,15 @@ Also it is Ratio variable because there is meaninful zero(No downloads) with int
 
 b. The names of the bands that were downloaded. 
 	<br>Nominal variable because each band has their own identity and has a meaning, has no meaningful order.</br>
+
 c. The position in the iTunes download chart. 
-        Ordinal variable because position tells us the order of ranking; first, second, third.
+        <br>Ordinal variable because position tells us the order of ranking; first, second, third.</br>
 
 d. The money earned by the bands from the downloads. 
-        Ratio variable because there is meaningful zero(No money earned) and it has properties of interval variable($20 -$30 dollars and $40- $50 dollars have same difference) 
+        <br>Ratio variable because there is meaningful zero(No money earned) and it has properties of interval variable($20 -$30 dollars and $40- $50 dollars have same difference)</br>
 
 e. The weight of drugs bought by the bands with their royalties. 
-        Ratio variable because there is meaningful zero(0 lb drugs) and there is same difference between (20 - 30 lbs) and (25-35 lbs) of drug.
+        <br>Ratio variable because there is meaningful zero(0 lb drugs) and there is same difference between (20 - 30 lbs) and (25-35 lbs) of drug.</br>
 
 f. The type of drugs bought by the bands with their royalties. 
         <br>Categorical and Nominal variable because type of drugs can be categorized by names(cocaine, marijuana) and there is no meaningful order.</br>
@@ -24,10 +25,10 @@ h. The gender of the people giving the bands their phone numbers.
         <br>Binary variable because there is 2 distinct gender category; Male and Female. It can be categorical as well because gender are categorized.</br>
     
 i. The instruments played by the band members.
-        Nominal and categorical variable because they are categorized and each instrument has distinct usefulness and there is no order/ranking.
+        <br>Nominal and categorical variable because they are categorized and each instrument has distinct usefulness and there is no order/ranking.</br>
 
 j. The time they had spent learning to play their instruments. 
-       Continuous variable because time spent can be infinite between high and low value and it is also ratio variable because there is meaningful zero(No time spent on learning to play instrument) and range between any two values have same different. 10 to 20 minutes with 30 to 40 minutes.
+       <br>Continuous variable because time spent can be infinite between high and low value and it is also ratio variable because there is meaningful zero(No time spent on learning to play instrument) and range between any two values have same different. 10 to 20 minutes with 30 to 40 minutes.</br>
 
 Task 4: Say I own 857 CDs. My friend has written a computer program that uses a webcam to scan the shelves in my house where I keep my CDs and measure how many I have. His program says that I have 863 CDs. Define measurement error. What is the measurement error in my friend’s CD-counting device? 
 
