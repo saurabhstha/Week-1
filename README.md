@@ -5,7 +5,7 @@ a. The number of downloads of different bands’ songs on iTunes.
 Also it is Ratio variable because there is meaninful zero(No downloads) with interval properties(10-20 downloads and 30-40 downloads have same difference)</br>
 
 b. The names of the bands that were downloaded. 
-	Nominal variable because each band has their own identity and has a meaning, has no meaningful order.&nbsp;
+	<br>Nominal variable because each band has their own identity and has a meaning, has no meaningful order.</br>
 c. The position in the iTunes download chart. 
         Ordinal variable because position tells us the order of ranking; first, second, third.
 <brd. The money earned by the bands from the downloads. 
